@@ -1,10 +1,10 @@
 # portscanner
 A Simple Port Scanner
 
-'''
+```
 pip install colorama 
 python scanner.py
-'''
+```
 
 ## worked on :
 
